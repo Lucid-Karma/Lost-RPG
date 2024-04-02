@@ -1,6 +1,6 @@
 # Lost-RPG
 
-## About:
+## About
 
 A simple RPG that tells the story of a hunter who is chosen by the queen to investigate the tension caused by the king of the neighboring village. The game is still under development, but the inventory and equipment system are complete, and the dialogue system is also implemented.</br>
 **Video** https://youtu.be/KZkDuZo4afY
@@ -17,7 +17,7 @@ A simple RPG that tells the story of a hunter who is chosen by the queen to inve
 
   ![Image Sequence_002_0000](https://github.com/Lucid-Karma/Lost-RPG/assets/88732917/c91180ec-0a4f-4c58-8779-9a64ed672b57)
 
-## Gameplay:
+## Gameplay
 
 The player takes on the role of a hunter and sets out on a journey to the neighboring village. Along the way, the player will interact with NPCs, complete various quests, and follow clues to find the source of the tension. The player will encounter enemies in battles and will be able to use various weapons and armor to defeat them.
 
